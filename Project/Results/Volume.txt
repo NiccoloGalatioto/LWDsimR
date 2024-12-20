@@ -1,0 +1,14 @@
+ 	              	Amount	Unit
+Total Area          	118	ha	
+Share of Forest Area 	34	%	
+Total wood stock    	2620	m3	
+ 			
+Total volume of water	409344	m3	
+Duration of event	60	min	
+ 			
+Mobilized wood total	305	m3	
+Mobilized living wood	147	m3	
+Mobilized dead wood	158	m3	
+Deposited Wood       	153	m3	
+Jammed Wood       	51	m3	
+Wood on LSB        	100	m3	
