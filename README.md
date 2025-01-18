@@ -5,3 +5,8 @@ Large woody material transported by rivers during floods can be jammed in natura
 The software is written in R and scripts for preprocessing and postprocessing of the data are available. For detailed information about the model set up and application please see the user manual. For a detailed description of the transport equations and further information please see Mazzorana et al. (2011). For informations about the vector based version in R please refer to Galatioto (2016).
 
 The updated version 2 includes an adapted modelling approach of the woody material recruitment process. This allows an enhanced estimation of the woody debris load actually recruited during a flood event.
+
+# References
+Mazzorana, B., Hübl, J., Zischg, A. P., Largaider, A. (2011): Modelling woody material transport and deposition in alpine rivers, Natural Hazards (56): 425-449.
+
+Galatioto, N. (2016): Modellierung der Schwemmholzdynamik hochwasserführender Fliessgewässer. Master Thesis, Institute of Geography, University of Berne, Switzerland.
