@@ -10,3 +10,5 @@ The updated version 2 includes an adapted modelling approach of the woody materi
 Mazzorana, B., Hübl, J., Zischg, A. P., Largaider, A. (2011): Modelling woody material transport and deposition in alpine rivers, Natural Hazards (56): 425-449.
 
 Galatioto, N. (2016): Modellierung der Schwemmholzdynamik hochwasserführender Fliessgewässer. Master Thesis, Institute of Geography, University of Berne, Switzerland.
+
+Zischg, A. P., Galatioto, N., Deplazes, S., Weingartner, R., and Mazzorana, B. (2018): Modelling Spatiotemporal Dynamics of Large Wood Recruitment, Transport, and Deposition at the River Reach Scale during Extreme Floods, Water, 10(9), 1134.
